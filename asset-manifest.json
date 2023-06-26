@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.af65ae4d.css",
+    "main.js": "/Portfolio/static/js/main.0e9ab60c.js",
+    "static/media/wallpaperflare.com_wallpaper (13).jpg": "/Portfolio/static/media/wallpaperflare.com_wallpaper (13).fbbe1ff837755dcfd01a.jpg",
+    "static/media/power-meter.png": "/Portfolio/static/media/power-meter.44574f6f59c73482f696.png",
+    "static/media/icons8-react-js.svg": "/Portfolio/static/media/icons8-react-js.503ccb3c31761f70170643c5a4ddc838.svg",
+    "static/media/mongodb (1).svg": "/Portfolio/static/media/mongodb (1).bcc0eed2c88178f172ac4a327271cb53.svg",
+    "static/media/sql-file-icon.svg": "/Portfolio/static/media/sql-file-icon.052c056d92a7df33c1caa50c6ee0c3b1.svg",
+    "static/media/icons8-node-js.svg": "/Portfolio/static/media/icons8-node-js.b888c3c2b166a0aa7d217c6388f3d362.svg",
+    "static/media/icons8-java (1).svg": "/Portfolio/static/media/icons8-java (1).53083ef0293cdacf671f1e7d42b8d637.svg",
+    "static/media/leetcode.svg": "/Portfolio/static/media/leetcode.7951fc74c4520a91c54fc246c2a22654.svg",
+    "static/media/icons8-express-js.svg": "/Portfolio/static/media/icons8-express-js.169f37f2279df2fd63dc148e95df0bfb.svg",
+    "static/media/mail.svg": "/Portfolio/static/media/mail.fcc2055b9321d1f4ee733ad231a345ed.svg",
+    "static/media/github.svg": "/Portfolio/static/media/github.2d2fe081cab6ba0e3837fcf2cc96dcf1.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/linkedin.svg": "/Portfolio/static/media/linkedin.3530f2ff708cbfa72ad0bed5a92bccc6.svg",
+    "main.af65ae4d.css.map": "/Portfolio/static/css/main.af65ae4d.css.map",
+    "main.0e9ab60c.js.map": "/Portfolio/static/js/main.0e9ab60c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af65ae4d.css",
+    "static/js/main.0e9ab60c.js"
+  ]
+}
